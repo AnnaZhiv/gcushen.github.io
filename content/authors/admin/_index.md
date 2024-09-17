@@ -130,7 +130,7 @@ accomplishments:
 
 awards:
   - title: Winner of universiade RUDNON
-    date: 'febriary 2024'
+    date: 'february 2024'
     awarder: RUDN
   - title: Beat papper award in Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems (ITTMM) 2024 conference 
     date: 'april 2024'
