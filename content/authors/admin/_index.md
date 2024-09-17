@@ -57,14 +57,14 @@ interests:
 education:
   - area: Bch Math and Computer science
     institution: Peoplees' Friendship University of Russia
-    date_start: 01.09.2020
-    date_end: 31.06.2024
+    date_start: 2020-09-01
+    date_end: 2024-06-31
 work:
   - position: Laborant researcher
     company_name: Peoplees' Friendship University of Russia
     company_url: https://www.rudn.ru/
     company_logo: https://avatars.mds.yandex.net/i?id=359bcb4788f1a7bccb3e387ddcd0af0b_l-5232212-images-thumbs&n=13
-    date_start: 12.02.2024
+    date_start: 2024-02-12
 
   
 # Skills
