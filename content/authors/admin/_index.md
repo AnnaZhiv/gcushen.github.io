@@ -135,9 +135,10 @@ awards:
   - title: Beat papper award in Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems (ITTMM) 2024 conference 
     date: 'april 2024'
     awarder: Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems 2024
-- title: Best Graduation Project award
+  - title: Best Graduation Project award
     date: 'july 2024'
     awarder: RUDN
+
 ---
 
 ## About Me
