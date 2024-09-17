@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Anna Zhivtsova
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Anna
+last_name: Zhivtsova
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☀️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +20,127 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Laborant researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Peoplees' Friendship University of Russia
+    url: https://www.rudn.ru/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:zhivtsova_aa@pfur.ru'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: custom/el
+    url: https://elibrary.ru/author_info.asp?isold=1
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=WWOdcBgAAAAJ&hl=ru
+  - icon: brands/orcid
+    url:  https://orcid.org/0009-0007-8438-6850
+  - icon: custom/mendeley
+    url: https://www.mendeley.com/
+  - icon: custom/researchgate
+    url: https://www.researchgate.net/profile/Anna-Zhivtsova 
+  - icon: custom/academia
+    url: https://independent.academia.edu/AnnaЖивцова
+    - icon: brands/arxiv
+    url: https://arxiv.org/a/0009-0007-8438-6850.html
+    - icon: brands/github
+    url: https://github.com/AnnaZhiv
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Communication networks
+  - Operation research
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: Bch Math and Computer science
+    institution: Peoplees' Friendship University of Russia
+    date_start: 01.09.2020
+    date_end: 31.06.2024
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Laborant researcher
+    company_name: Peoplees' Friendship University of Russia
+    company_url: https://www.rudn.ru/
+    company_logo: https://avatars.mds.yandex.net/i?id=359bcb4788f1a7bccb3e387ddcd0af0b_l-5232212-images-thumbs&n=13
+    date_start: 12.02.2024
 
+  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
+  - name: Knowledge area
+    items:
+      - name: Probability theory
+        description: Queueing theory, Random processes 
+        percent: 70
+        icon: code-bracket
+      - name: Data Science
+        description: Algorithms, Networks, Machine learning
+        percent: 90
+        icon: chart-bar
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
+        description: Matplotlib, Seaborn, Numpy, Pandas, Sklearn, Pytorch
         percent: 100
+        icon: code-bracket
+      - name: Java
+        description: ''
+        percent: 85
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 90
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Flute
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: music
+      - name: Choral singing
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        percent: 60
+        icon: music
 
 languages:
-  - name: English
+  - name: Russian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+accomplishments:
+  - title: Author of paper "A Survey of Delay-Oriented Dynamic Link Scheduling Policies for 5G/6G Integrated Access and Backhaul Systems"
+    url: https://ieeexplore.ieee.org/document/10643106
+    date: 'september 2024'
+  - title: Author of paper "A New Link Activation Policy for Latency Reduction in 5G Integrated Access and Backhaul Systems"
+    url: https://cyberleninka.ru/article/n/a-new-link-activation-policy-for-latency-reduction-in-5g-integrated-access-and-backhaul-systems
+    date: 'may 2024'
+  - title: Author of paper "Developing a New Link Scheduling Policy for Delay Reduction in 5G Integrated Access and Backhaul Systems"
+    url: http://sitito.cs.msu.ru/index.php/SITITO/article/view/1035
+    date: 'may 2024'
+
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: Winner of universiade RUDNON
+    date: 'febriary 2024'
+    awarder: RUDN
+  - title: Beat papper award in Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems (ITTMM) 2024 conference 
+    date: 'april 2024'
+    awarder: Information and Telecommunication Technologies and Mathematical Modeling of High-Tech Systems 2024
+- title: Best Graduation Project award
+    date: 'july 2024'
+    awarder: RUDN
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Anna Zhivtsova is currently a postgraduate student at the Peoples’ Friendship University of Russia (RUDN University). She is currently working in a research group, which aims to develop a model of a multi-hop network for massive machine-type  and ultra relailable low-latancy communications to optimize the architecture of such a system. Her current research interests include operations research and
+control of complex cyber-physical systems.
