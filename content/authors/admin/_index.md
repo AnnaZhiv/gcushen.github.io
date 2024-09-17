@@ -45,9 +45,9 @@ profiles:
     url: https://www.researchgate.net/profile/Anna-Zhivtsova 
   - icon: custom/academia
     url: https://independent.academia.edu/AnnaЖивцова
-    - icon: brands/arxiv
+  - icon: brands/arxiv
     url: https://arxiv.org/a/0009-0007-8438-6850.html
-    - icon: brands/github
+  - icon: brands/github
     url: https://github.com/AnnaZhiv
 
 interests:
