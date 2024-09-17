@@ -58,7 +58,7 @@ education:
   - area: Bch Math and Computer science
     institution: Peoplees' Friendship University of Russia
     date_start: 2020-01-09
-    date_end: 2024-31-06
+    date_end: 2024-30-06
 work:
   - position: Laborant researcher
     company_name: Peoplees' Friendship University of Russia
