@@ -3,7 +3,7 @@
 title: Anna Zhivtsova
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: '' 
 
 # Full name (for SEO)
 first_name: Anna
@@ -24,7 +24,7 @@ role: Laborant researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Peoplees' Friendship University of Russia
+  - name: Peoples' Friendship University of Russia
     url: https://www.rudn.ru/
 
 # Social network links
@@ -55,15 +55,24 @@ interests:
   - Operation research
 
 education:
-  - area: Bch Math and Computer science
+  - area: BSc Math and Computer science
     institution: Peoplees' Friendship University of Russia
     date_start: 2020-09-01
     date_end: 2024-06-30
+    summary: |
+      Thesis on link scheduling in a half-duplex multi-hop Integrated Access and Backhaul 5G/6G systems
+
+  - area: MSc Applied Mathematics and Informatics
+    institution: RUDN University
+    date_start: 2024-09-01
+    date_end: 2026-06-30
+
+
 work:
   - position: Laborant researcher
     company_name: Peoplees' Friendship University of Russia
     company_url: https://www.rudn.ru/
-    company_logo: https://avatars.mds.yandex.net/i?id=359bcb4788f1a7bccb3e387ddcd0af0b_l-5232212-images-thumbs&n=13
+    company_logo: custom/rudn
     date_start: 2024-02-12
 
   
@@ -143,5 +152,4 @@ awards:
 
 ## About Me
 
-Anna Zhivtsova is currently a postgraduate student at the Peoples’ Friendship University of Russia (RUDN University). She is currently working in a research group, which aims to develop a model of a multi-hop network for massive machine-type  and ultra relailable low-latancy communications to optimize the architecture of such a system. Her current research interests include operations research and
-control of complex cyber-physical systems.
+Anna Zhivtsova is currently a postgraduate student at the Peoples’ Friendship University of Russia (RUDN University). She is currently working in a research group, which aims to develop a model of a multi-hop network for massive machine-type  and ultra relailable low-latancy communications to optimize the architecture of such a system. Her current research interests include operations research and control of complex cyber-physical systems.
