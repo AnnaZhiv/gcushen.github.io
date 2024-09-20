@@ -39,8 +39,8 @@ profiles:
     url: https://scholar.google.com/citations?user=WWOdcBgAAAAJ&hl=ru
   - icon: brands/orcid
     url:  https://orcid.org/0009-0007-8438-6850
-  - icon: custom/mendeley
-    url: https://www.mendeley.com
+  #- icon: custom/mendeley
+  #  url: https://www.mendeley.com
   - icon: custom/researchgate
     url: https://www.researchgate.net/profile/Anna-Zhivtsova 
   - icon: custom/academia
@@ -147,7 +147,6 @@ awards:
   - title: Best Graduation Project award
     date: '2024-06-30'
     awarder: RUDN
-
 ---
 
 ## About Me
