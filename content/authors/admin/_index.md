@@ -35,20 +35,27 @@ profiles:
     label: E-mail Me
   - icon: custom/el
     url: https://elibrary.ru/author_info.asp?isold=1
+    label: ''
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=WWOdcBgAAAAJ&hl=ru
   - icon: brands/orcid
     url:  https://orcid.org/0009-0007-8438-6850
-  #- icon: custom/mendeley
-  #  url: https://www.mendeley.com
+    label: ''
+  - icon: custom/mendeley
+    url: https://www.mendeley.com
+    label: ''
   - icon: custom/researchgate
     url: https://www.researchgate.net/profile/Anna-Zhivtsova 
+    label: ''
   - icon: custom/academia
     url: https://independent.academia.edu/AnnaЖивцова
+    label: ''
   - icon: brands/arxiv
     url: https://arxiv.org/a/0009-0007-8438-6850.html
+    label: ''
   - icon: brands/github
     url: https://github.com/AnnaZhiv
+    label: ''
 
 interests:
   - Communication networks
