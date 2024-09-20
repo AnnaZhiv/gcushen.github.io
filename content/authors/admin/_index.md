@@ -35,27 +35,20 @@ profiles:
     label: E-mail Me
   - icon: /el
     url: https://elibrary.ru/author_info.asp?isold=1
-    label: ''
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=WWOdcBgAAAAJ&hl=ru
   - icon: brands/orcid
     url:  https://orcid.org/0009-0007-8438-6850
-    label: ''
   - icon: /mendeley
     url: https://www.mendeley.com
-    label: ''
   - icon: /researchgate
     url: https://www.researchgate.net/profile/Anna-Zhivtsova 
-    label: ''
   - icon: academia
     url: https://independent.academia.edu/AnnaЖивцова
-    label: ''
   - icon: brands/arxiv
     url: https://arxiv.org/a/0009-0007-8438-6850.html
-    label: ''
   - icon: brands/github
     url: https://github.com/AnnaZhiv
-    label: ''
 
 interests:
   - Communication networks
@@ -90,7 +83,7 @@ skills:
       - name: Probability theory
         description: Queueing theory, Random processes 
         percent: 70
-        icon: code-bracket
+        icon: chart-bar
       - name: Data Science
         description: Algorithms, Networks, Machine learning
         percent: 90
@@ -104,7 +97,7 @@ skills:
       - name: Java
         description: ''
         percent: 85
-        icon: chart-bar
+        icon: code-bracket
       - name: SQL
         description: ''
         percent: 90
