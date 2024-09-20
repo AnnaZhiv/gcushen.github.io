@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:zhivtsova_aa@pfur.ru'
     label: E-mail Me
-  - icon: custom/el
+  - icon: el
     url: https://elibrary.ru/author_info.asp?isold=1
     label: ''
   - icon: brands/google-scholar
@@ -41,13 +41,13 @@ profiles:
   - icon: brands/orcid
     url:  https://orcid.org/0009-0007-8438-6850
     label: ''
-  - icon: custom/mendeley
+  - icon: mendeley
     url: https://www.mendeley.com
     label: ''
-  - icon: custom/researchgate
+  - icon: researchgate
     url: https://www.researchgate.net/profile/Anna-Zhivtsova 
     label: ''
-  - icon: custom/academia
+  - icon: academia
     url: https://independent.academia.edu/AnnaЖивцова
     label: ''
   - icon: brands/arxiv
@@ -72,7 +72,6 @@ education:
   - area: MSc Applied Mathematics and Informatics
     institution: RUDN University
     date_start: 2024-09-01
-    date_end: 2026-06-30
 
 
 work:
