@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:zhivtsova_aa@pfur.ru'
     label: E-mail Me
-  - icon: el
+  - icon: /el
     url: https://elibrary.ru/author_info.asp?isold=1
     label: ''
   - icon: brands/google-scholar
@@ -41,10 +41,10 @@ profiles:
   - icon: brands/orcid
     url:  https://orcid.org/0009-0007-8438-6850
     label: ''
-  - icon: mendeley
+  - icon: /mendeley
     url: https://www.mendeley.com
     label: ''
-  - icon: researchgate
+  - icon: /researchgate
     url: https://www.researchgate.net/profile/Anna-Zhivtsova 
     label: ''
   - icon: academia
