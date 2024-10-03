@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-10-03
 type: landing
 
 design:
@@ -51,16 +51,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  #- block: collection
-  #  id: talks
-  #  content:
-  #    title: Recent & Upcoming Events
-  #    filters:
-  #      folders:
-  #        - event
-  #   design:
-  #    view: article-grid
-  #    columns: 1
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Events
+      filters:
+        folders:
+          - event
+     design:
+      view: article-grid
+      columns: 1
   - block: collection
     id: news
     content:
@@ -70,7 +70,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 6
       # Filter on criteria
       filters:
         author: ""
