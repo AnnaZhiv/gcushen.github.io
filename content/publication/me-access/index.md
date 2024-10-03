@@ -7,7 +7,7 @@ authors:
 - Yevgeni Koucheryavy
 - Konstantin Samouylov
 date: '2024-01-01'
-featured: false
+featured: true
 publishDate: '2024-09-17T14:57:09.565185Z'
 publication_types:
 - article-journal
