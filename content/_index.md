@@ -53,11 +53,12 @@ sections:
       view: citation
   - block: collection
     content:
-      title: Recent & Upcoming Events
+      title: Events
       filters:
         folders:
           - events
-     design:
+        featured_only: true
+    design:
       view: article-grid
       columns: 1
   - block: collection

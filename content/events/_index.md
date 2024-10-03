@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Events
 cms_exclude: true
 #url: talk
 
@@ -10,4 +10,5 @@ view: card
 image:
   caption: ''
   filename: ''
+
 ---
