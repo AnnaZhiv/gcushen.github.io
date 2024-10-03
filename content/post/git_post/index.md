@@ -56,9 +56,11 @@ git commit -am ''
 git push --force
 ``` 
 
-But who knows maybe in one day I will really need for version control....     
-In my current life I use version control only in overleaf and I enjoy it! It make opportunity GitHub once will be helpful for me. Moreover, the GitHub pages, which I first know at the last month seems to be useful. So, Thank to the Dmitri Kulyabov I 
+And I do so only for my homework, not with personal aims. But who knows maybe in one day I will really need for version control....     
+In my current life I use version control only in overleaf and I enjoy it! It make opportunity GitHub once will be helpful for me.
 
-# How I use
 
-A month ago I learn a second way to link GitHub
+Worth noting that in the past month, I have learned new things about GitHub. 
+For example, GitHub pages, which are used in this project, seem to be useful. 
+Thanks to Professor Dmitri Kulyabov, I am now familiar with the GitHub tool, which is obviously a great tool for developers. 
+However, I am not yet ready to dive deep into this system. If I need it again, though, I won't be so confused by it.
