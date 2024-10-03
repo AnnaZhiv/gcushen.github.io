@@ -52,12 +52,11 @@ sections:
     design:
       view: citation
   - block: collection
-    # id: talks
     content:
       title: Recent & Upcoming Events
       filters:
         folders:
-          - event
+          - events
      design:
       view: article-grid
       columns: 1
