@@ -42,12 +42,13 @@ profiles:
   - icon: brands/orcid
     url:  https://orcid.org/0009-0007-8438-6850
     label: ORCID
-  - icon: mendeley
+  - icon: academicicons/mendeley
     url: https://www.mendeley.com
     label: Mendeley
-  - icon: researchgate
+  - icon: academicicons/researchgate
     url: https://www.researchgate.net/profile/Anna-Zhivtsova 
-  - icon: academia
+    label: ResearchGate
+  - icon: academicicons/academia
     url: https://independent.academia.edu/AnnaЖивцова
     label: Academia
   - icon: brands/arxiv
