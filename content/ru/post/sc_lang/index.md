@@ -22,18 +22,18 @@ tags:
 
 {{< toc mobile_only=true is_open=true >}}
 
-## What makes a programming language scientific
+## Что делает язык программирования применимым в науке?
 
-Scientific programming language is one that is designed and optimized for the use of mathematical formula and matrices. Such languages are characterized not only by the availability of libraries performing mathematical or scientific functions, but by the syntax of the language itself.
+Научный язык программирования -- это язык, который разработан и оптимизирован для использования математических формул и матриц. Такие языки характеризуются не только наличием библиотек, выполняющих математические или научные функции, но и простым видом синтаксиса языка.
 
-## Languages I use (or have used once)    
+## Языки, которые я использовала 
 
 - Python     
 - Jula    
 - Matlab (Octave)    
 - Maxima      
 
-## Languages I have never use 
+## Языки, которые я не использовала
 
 - R
 - Wolfram Mathematica     

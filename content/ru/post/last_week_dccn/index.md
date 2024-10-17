@@ -1,6 +1,6 @@
 ---
 title: 👩‍💼 DCCN 2024 👩‍💼
-summary: Organazing conference
+summary: Организовываем конференцию
 date: 2024-09-27
 
 # Featured image
@@ -14,41 +14,41 @@ authors:
   - admin
 
 tags:
-  - Science Live
-  - Conference
-  - Work 
+  - Жизнь в науке
+  - Конференция
+  - Работа
 ---
 
-Welcome 👋
+Добро пожаловать 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
-# About DCCN
+# О DCCN
 
-(DCCN)[https://dccn.ru/] is Distributed Computer and Communication Networks: Control, Computation, Communications.
+(DCCN)[https://dccn.ru/] расшифровывается как Distributed Computer and Communication Networks: Control, Computation, Communications.
 
-The main idea of the conference is to provide a platform and forum for researchers and developers from academia and industry from various countries working in the area of theory and applications of distributed computer and communication networks, mathematical modeling, methods of control and optimization of distributed systems, by offering them a unique opportunity to share their views as well as discuss the prospective developments and pursue collaboration in this area. This conference is held both by the Institute of Control Science Russian Academy of Science ((ICS RAS)[https://www.ipu.ru/en]) and Peoples' Friendship University of Russia ((RUDN)[https://www.rudn.ru/]). In this year the main organazer was the RUDN.  
+Основная идея конференции -- предоставить платформу и форум для исследователей и разработчиков из академических кругов и промышленности разных стран, работающих в области теории и применения распределенных компьютерных и коммуникационных сетей, математического моделирования, методов управления и оптимизации распределенных систем, предоставив им уникальную возможность поделиться своим опытом. просмотреть, а также обсудить перспективные разработки и продолжить сотрудничество в этой области. Организаторами этой конференции являются Институт проблем управления Российской академии наук ((ICS RAS)[https://www.ipu.ru/en]) и Российский университет дружбы народов ((RUDN)[https://www.rudn.ru/]). В этом году основным организатором является RUDN. 
 
-# Schedule
+# Расписание
 
-## First day
+## Первый день
 
-At the first day the plenary talks were made. Professor from India (Neeraj Kumar)[https://dccn.ru/keynotes/kumar] talked about Quantum Blockchain for Next Generation Networks Scenarios: Use Cases, Challenges and Future Directions. Professor (Abdelkader Laouid)[https://dccn.ru/keynotes/laouid] from Algirea talked abot The Escalating Cybersecurity Threats in the Era of Quantum Computers: Challenges and Solutions. Doctor (Sachin Sharma)[https://dccn.ru/keynotes/sharma] from India named his talk Repeated Line Tracking and Multiline Neighbouring Relation (RLMN) framework for finger vein template security. Finally we were listening presentation of Holographic City - CitiVerse from our own dear doctor (Ammar Muthanna)[https://dccn.ru/keynotes/muthanna]. Head of our department Professor Konstantin Samouilov was realy exited our guests and invite them in the common project. 
+В первый день проходили пленарные доклады. Профессор (Neeraj Kumar)[https://dccn.ru/keynotes/kumar] из Индии делал доклад о квантовом блокчейне для сетей следующего поколения. Профессор (Abdelkader Laouid)[https://dccn.ru/keynotes/laouid] из Алжира говорил о угрозах кибербезопасности в эру квантовых компьютеров. Доктор (Sachin Sharma)[https://dccn.ru/keynotes/sharma] из Индии рассказывал о использовании повторяющихся линий для улучшения распознавания по отпечатку пальца. Наконец, доктор (Амар Мухтана)[https://dccn.ru/keynotes/muthanna] представил доклад о голографическом городе и его цифровом двойнике. 
 
-## Second and third day
+## Второй и третий день
 
-In the second and third days, the conference worked in three parallel tracks, each consisting of three sections. I was on track A, called Computer and Communication Networks: Architecture, Protocols, and Technologies. With the main theme related in the name of track the other important common theme became an artificial intellegent. Unfortunately, it was the least-visited track, so I heard few talks, but it was enjoyable from the point of view of organizing this track.
+Во второй и третий дни конференция работала в трех параллельных направлениях, каждое из которых состояло из трех секций. Я работала в направлении А, которое называлось "Компьютерные и коммуникационные сети: архитектура, протоколы и технологии". Помимо основной темы, связанной с названием направления, другой важной общей темой стал искусственный интеллект. К сожалению, это был наименее посещаемое направление, поэтому я послушала мало докладов, но, с другой стороны, небольшое направление было удобно с точки зрения организации.
 
-## No oficial part
+## Неофициальная часть
 
-Our guests were invited to a guided tour and the theatre. As an unofficial part, we also hosted two luxury gala dinners with delicious food.
+Наши гости были приглашены на экскурсию с гидом и в театр. В качестве неофициальной части мы также устроили два роскошных гала-ужина с изысканными блюдами.
 
-# My role
+# Мое участие
 
-## My talk
+## Мое выступление
 
-Traditionally, I have talked about wireless multi-hop half-duplex networks. I prepared a short talk where we only checked end-to-end delays and the variation in channel capacity. Surprisingly, this variation had almost no influence on the average delay and the 99th percentile of delays. The only thing that we noted was that in a highly loaded system, under a link scheduling policy based on queue lengths, the end-to-delay slightly increased with the variation in the channel throughput, but no dependence occurred in other conditions.
+Традиционно я рассказывала о беспроводных многошаговых полудуплексных сетях. Я подготовила краткий доклад, в котором мы только численно оценили сквозные задержки при изменении дисперсии пропускной способности каналов. Удивительно, но это изменение практически не повлияло на среднюю задержку и 99-й процентиль задержек. Единственное, что мы отметили, это то, что в высоконагруженной системе при политике активации каналов, основанной на длине очереди, задержка  немного увеличивалась с увеличением дисперсии пропускной способности канала, но в других условиях никакой зависимости не наблюдалось.
 
-## Organization 
+## Организационная функция
 
-There was a large group of volunteers who worked to make the event comfortable and smooth. With about 10 volunteers, we had no chance of failure due to reservations. Personally, I met the guests in the hall, guided them to lunch, prepared a room, and provided online translation services. It was easy, but it took all my times. So it was a very interesting feeling to actively work, but never get tired.  
+Большая группа волонтеров работала над тем, чтобы мероприятие прошло комфортно и без сбоев. У нас было около 10 волонтеров, поэтому у нас не было шансов попасть впросак. Лично я встречала гостей в зале, провожала их на обед, подготавливала помещение и поддерживала онлайн участие. Это было легко, но отняло у меня много времени. Я испытала интересное, когда работала целый день, но не уставала, потому что работа была легкой. 

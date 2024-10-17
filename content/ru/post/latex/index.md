@@ -1,6 +1,6 @@
 ---
 title: 📝💻 \latex 💻📝
-summary: No day without LaTex
+summary: Ни дня без латеха
 date: 2024-10-04
 
 # Featured image
@@ -14,46 +14,50 @@ authors:
   - admin
 
 tags:
-  - Science Live
-  - Homework
+  - Жизнь в науке
+  - Домашнее задание
+  - Работа
 ---
 
-Welcome 👋
+Добро пожаловать 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
-## LaTex is markup language
+## LaTex -- это язык разметки
 
-A markup language is a type of computer language that uses special characters or sequences of characters to add information about the structure and presentation of text. It belongs to the category of computer languages and is used to create documents that contain not only the actual text, but also additional information such as headings, lists, and other formatting elements.
+Язык разметки -- набор символов или последовательностей символов, вставляемых в текст для передачи информации о его отображении или строении. Принадлежит классу компьютерных языков. Текстовый документ, написанный с использованием языка разметки, содержит не только сам текст (как последовательность слов и знаков препинания), но и дополнительную информацию о различных его участках -- например, указание на заголовки, выделения, списки и т. д.
 
-The only idea of markup language was appear at 1967. And in 1980s Donald Knut creates Tex markup language, which appears to be so powerful and useful tool that it is widely used until today. LaTex is a mackropaket of TeX. 
+Идея языков разметки появилась в 1967 и уже в  1980х Дональд Кнут создал язык разметки Tex, который оказался настолько мощным, что до сих пор лежит в основе широко используемых систем, таких как LaTex, являющийся макропакетом языка TeX.
 
-## LaTex functions
+## Функции LaTex 
 
-LaTex alows authors to only wrote a content and LaTex himself carry about
-- The numbering of sections and formulas     
-- Accommodation links     
-- Placement of illustrations and tables     
-- Design of mathematical formulas     
-- Hyphenation    
-- Definition mezhduslovnyh gaps     
-- Balancing of text in a paragraph     
-- Generation of content table, list of illustrations and list of tables     
-- Design of the algorithms, source code with syntax highlighting    
-- Maintain the bibliography     
+LaTex позволяет авторам заботиться только о содержании документа и его логической 
+структуре. LaTex в свою очередь проводит    
+- нумерацию разделов и формул,    
+- размещение ссылок,     
+- размещение иллюстраций и таблиц,    
+- оформление математических формул,    
+- расстановку переносов,    
+- определение междусловных пробелов,   
+- балансировку текста в абзацах,   
+- генерацию содержания, списка иллюстраций, таблиц,    
+- оформление алгоритмов, исходных текстов с синтаксической подсветкой,   
+- ведение библиографии и др.    
 
-## Technical issues
+## Технические детали
 
-As usual, to use wonderful featured tool you must pass through instalation process, which is often is not very simple. But it is not about LaTex.
+Как обычно, чтобы воспользоваться замечательным функциональным инструментом, вы должны пройти процесс установки, который часто бывает не очень простым. Но речь не о LaTeX. Его установка довольно проста и прозрачна. Разберем детали установки.
 
-### Distributives
+### Дистрибутивы
 
-LaTeX is free software, and anyone is free to share it in any way they choose. At the moment, there are two main distributives:
-
-1. TeXLive -- the main version, available for Win/Mac/Linux, preinstalled (about 3-4 GB)   
-2. MiKTeX - available only for Windows, offers dynamic package loading during installation. It has a low installation size, but requires the internet to download packages. Users have complained about slow downloads (typical installation is 500-800 MB).
-
-MacTeX and ProTeXt are also available as extensions of TeXLive and MiKTeX, respectively.
+LaTeX является свободным ПО, поэтому каждый волен распространять его по  своему. На данный момент существует два основных дистрибутива:     
+1. TeXLive --- основной дистрибутив, поддерживает Win/Mac/Lin, вустановленном виде (3-4 Гб).
+2. MiKTex --- дистрибутив доступный только под MS Windows, предлагает динамическую загрузку недостающих пакетов при сборке. Малый вес в 
+установленном виде, требует интернет для дозагрузки пакетов. 
+Пользователи иногда жалуются что дозагрузка весьма медленная (типовая 
+установка 500-800 мБ).
+Также доступны MacTeX и ProTEXt, являющиеся расширениями дистрибутивов 
+TeXLive и MiKTex соответственно
 
 ### Compilers 
 
