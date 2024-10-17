@@ -2,6 +2,7 @@
 title: 'Опыт'
 date: 2024-09-20
 type: landing
+id: exper
 
 design:
   spacing: '5rem'
