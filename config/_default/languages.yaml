@@ -18,17 +18,17 @@ ru:
   menu:
     main:
     - name: Основные сведения
-      url: author/
-      weight: 10
+      url: /
+      weight: 20
     - name: Публикации
-      url: publications/
-      weight: 11
+      url: ./#public
+      weight: 21
     - name: Выступления
-      url: events/
-      weight: 12
+      url: /#events
+      weight: 22
     - name: Новости
-      url: posts/
-      weight: 13
+      url: /#posts
+      weight: 23
     - name: Опыт
       url: experience/
-      weight: 20
+      weight: 30
