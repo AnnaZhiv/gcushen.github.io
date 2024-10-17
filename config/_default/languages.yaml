@@ -14,7 +14,7 @@ en:
 ru:
   languageCode: ru
   contentDir: content/ru
-  title: Резюме Анны Живцовой
+  #title: Резюме Анны Живцовой
   #params:
   #  description: Резюме Анны Живцовой
 
