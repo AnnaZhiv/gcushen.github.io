@@ -58,3 +58,9 @@ features:
     enable: true
   privacy_pack:
     enable: false
+
+extensions:
+  academicons:
+    enable: true
+  devicon:
+    enable: true
