@@ -122,12 +122,12 @@ skills:
         description: ''
         percent: 60
         icon: music
-
-languages: Языки
+  - name: Языки
   - name: Russian
     percent: 100
   - name: English
     percent: 70
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
