@@ -21,13 +21,13 @@ ru:
       url: /
       weight: 20
     - name: Публикации
-      url: ./#public
+      url: publications/_index
       weight: 21
     - name: Выступления
-      url: /#events
+      url: events/_index
       weight: 22
     - name: Новости
-      url: /#posts
+      url: post/_index
       weight: 23
     - name: Опыт
       url: experience/

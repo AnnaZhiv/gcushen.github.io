@@ -52,7 +52,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: events
+    id: even
     content:
       title: События
       filters:
