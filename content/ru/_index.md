@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
   - block: collection
-    id: public
+    id: papers
     content:
       title: Избранные публикации
       filters:
@@ -52,7 +52,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: even
+    id: talks
     content:
       title: События
       filters:
@@ -63,7 +63,7 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
-    id: posts
+    id: news
     content:
       title: Последние новости
       subtitle: ''
