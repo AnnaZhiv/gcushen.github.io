@@ -158,4 +158,4 @@ awards:
 
 ## About Me
 
-Anna Zhivtsova is currently a postgraduate student at the Peoples’ Friendship University of Russia (RUDN University). She is currently working in a research group, which aims to develop a model of a multi-hop network for massive machine-type  and ultra relailable low-latancy communications to optimize the architecture of such a system. Her current research interests include operations research and control of complex cyber-physical systems.
+Anna Zhivtsova is currently a postgraduate student at the Peoples’ Friendship University of Russia (RUDN University). Now she is  working in a research group, which aims to develop a model of a multi-hop network for massive machine-type  and ultra relailable low-latancy communications to optimize the architecture of such a system. Her current research interests include operations research and control of complex cyber-physical systems.
