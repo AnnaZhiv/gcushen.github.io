@@ -37,13 +37,13 @@ ru:
       url: /
       weight: 20
     - name: Публикации
-      url: /#papers
+      url: /publications/
       weight: 21
     - name: Выступления
-      url: /#talks
+      url: /events
       weight: 22
     - name: Новости
-      url: /#news
+      url: /posts/
       weight: 23
     - name: Опыт
       url: experience/
