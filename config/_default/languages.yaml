@@ -36,13 +36,13 @@ ru:
       url: /
       weight: 10
     - name: Публикации
-      url: /publications/_index/
+      url: /#papers
       weight: 11
     - name: Выступления
-      url: events/_index/
+      url: /#papers
       weight: 12
     - name: Новости
-      url: posts
+      url: /#news
       weight: 13
     - name: Опыт
       url: experience/
