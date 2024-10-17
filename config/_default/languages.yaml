@@ -12,11 +12,11 @@ en:
 
 # Uncomment the lines below to configure your website in a second language.
 ru:
-  languageCode: ru-RU
+  languageCode: ru
   contentDir: content/ru
   title: Резюме Анны Живцовой
-  params:
-    description: Резюме Анны Живцовой
+  #params:
+  #  description: Резюме Анны Живцовой
 
   #menu:
   #  main:
