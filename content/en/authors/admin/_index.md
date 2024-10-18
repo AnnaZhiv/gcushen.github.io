@@ -133,16 +133,6 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-accomplishments:
-  - title: Author of paper "A Survey of Delay-Oriented Dynamic Link Scheduling Policies for 5G/6G Integrated Access and Backhaul Systems"
-    url: https://ieeexplore.ieee.org/document/10643106
-    date: 'september 2024'
-  - title: Author of paper "A New Link Activation Policy for Latency Reduction in 5G Integrated Access and Backhaul Systems"
-    url: https://cyberleninka.ru/article/n/a-new-link-activation-policy-for-latency-reduction-in-5g-integrated-access-and-backhaul-systems
-    date: 'may 2024'
-  - title: Author of paper "Developing a New Link Scheduling Policy for Delay Reduction in 5G Integrated Access and Backhaul Systems"
-    url: http://sitito.cs.msu.ru/index.php/SITITO/article/view/1035
-    date: 'may 2024'
 
 awards:
   - title: Winner of universiade RUDNON
