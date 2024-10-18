@@ -4,18 +4,18 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-- name: Основные сведения
-  url: '/#about'
+- name: 'Основные сведения
+  url: '#about'
   weight: 10
-- name: Публикации
+- name: 'Публикации'
   url: '/#papers'
   weight: 11
-- name: Выступления
-  url:  '/#talks'
+- name: 'Выступления'
+  url:  '#talks'
   weight: 12
-- name: Новости
-  url: '/#news'
+- name: 'Новости'
+  url: '#news'
   weight: 13
-- name: Опыт
+- name: 'Опыт'
   url: 'experience'
   weight: 14
