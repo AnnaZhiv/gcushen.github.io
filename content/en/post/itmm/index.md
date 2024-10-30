@@ -1,7 +1,7 @@
 ---
 title: 👩‍🎓☀️ ITMM 2024 ☀️👩‍🎓
 summary: Familiar conference with dear participants! 
-date: 2024-09-20
+date: 2024-10-30
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
